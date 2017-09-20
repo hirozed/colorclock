@@ -1,13 +1,7 @@
 body {
 	background:#000;
 }
-#clockframe {
-	width:98%;
-	height:600px;
-	border:1px solid #C2D1D2;
-	margin:10px auto;
-	position:relative;
-}
+
 #clock {
 	position:absolute;
 	margin:-120px 0 0 -400px;
